@@ -5,7 +5,7 @@ so after lots of this and that i was finally able to build it. It takes hours to
 I encourage people to add more and more wheels which are not available.
 
 # Installing opencv with contrib packages for python 3.8 for raspberry-pi only
-## git clone https://github.com/gauravniltech/opencv-contrib-wheel.git
-## cd opencv-contrib-wheel
-## pip install opencv_contrib_python-4.3.0+a464c98-cp38-cp38-linux_armv7l.whl
+### `git clone https://github.com/gauravniltech/opencv-contrib-wheel.git`
+### `cd opencv-contrib-wheel`
+### `pip install opencv_contrib_python-4.3.0+a464c98-cp38-cp38-linux_armv7l.whl`
 
