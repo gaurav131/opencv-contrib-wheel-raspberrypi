@@ -8,4 +8,9 @@ I encourage people to add more and more wheels which are not available.
 ### `git clone https://github.com/gauravniltech/opencv-contrib-wheel.git`
 ### `cd opencv-contrib-wheel`
 ### `pip install opencv_contrib_python-4.3.0+a464c98-cp38-cp38-linux_armv7l.whl`
-
+#### other wheels available:
+ - DLib
+ - Matplotlib
+ - Numpy
+ - Pillow
+ - Cmake
