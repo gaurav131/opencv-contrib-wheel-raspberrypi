@@ -14,3 +14,4 @@ I encourage people to add more and more wheels which are not available.
  - Numpy
  - Pillow
  - Cmake
+ - Scipy
